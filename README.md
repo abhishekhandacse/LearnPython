@@ -1,7 +1,7 @@
 # LearnPython
 > This repository contains codes I found in the book Python Programming for the Absolute Beginner, 3rd Edition.I refered this book to switch from c++ to python programming language.
 
-##| Chapter | Title |
+| Chapter | Title |
 | ----------- | ----------- |
 | 01 | GETTING STARTED: THE GAME OVER PROGRAM |
 | 02 | TYPES, VARIABLES, AND SIMPLE I/O: THE USELESS TRIVIA PROGRAM |
